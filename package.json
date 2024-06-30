@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "@heroicons/react": "^2.0.13",
+    "@sanity/image-url": "1",
+    "@sanity/vision": "3",
     "devicon-react-svg": "^0.2.3",
     "framer-motion": "^7.6.1",
     "next": "12.3.1",
@@ -19,11 +21,13 @@
     "react-dom": "18.2.0",
     "react-hook-form": "^7.39.1",
     "react-simple-typewriter": "^4.0.5",
-    "react-social-icons": "^5.15.0"
+    "react-social-icons": "^5.15.0",
+    "sanity": "3",
+    "styled-components": "6"
   },
   "devDependencies": {
-    "@types/node": "18.11.4",
-    "@types/react": "18.0.21",
+    "@types/node": "20.14.9",
+    "@types/react": "18.3.3",
     "@types/react-dom": "18.0.6",
     "autoprefixer": "^10.4.12",
     "eslint": "8.26.0",
@@ -31,6 +35,6 @@
     "postcss": "^8.4.18",
     "tailwind-scrollbar": "^2.0.1",
     "tailwindcss": "^3.2.1",
-    "typescript": "4.8.4"
+    "typescript": "5.5.2"
   }
 }
